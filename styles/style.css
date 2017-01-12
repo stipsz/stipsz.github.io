@@ -1,0 +1,36 @@
+html {
+  font-size: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-weight: 100;
+  margin: 0;
+  padding: 20px 0;    
+  color: black;
+}
+
+p, li {
+  font-size: 20px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #D81616;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color:  #E2C000;
+  padding: 0 20px 20px 20px;
+  border: 2px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
